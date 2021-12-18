@@ -98,6 +98,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   DestroyEffect: {fileID: 6465514639750357363, guid: fc49c3674b8d60a43b97f71f883cfca8, type: 3}
+  DestroyCovidEffect: {fileID: 8743571568068842995, guid: 7259e3a2d19811848b5f5d35173ccdb5, type: 3}
+  DestroyBossEffect: {fileID: 4880327211452215341, guid: 766cdec139acdb74285cc8adc9b253ab, type: 3}
 --- !u!70 &4645913669291281396
 CapsuleCollider2D:
   m_ObjectHideFlags: 0

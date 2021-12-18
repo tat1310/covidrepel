@@ -15,16 +15,31 @@ public class Character : MonoBehaviour
 
     public float shootSpeed = 10, shootTimer = 0.2f;
     public GameObject laser;
-    public GameObject lasernew;
 
     public Transform shootPos;
     private bool isShooting = true;
 
+    public int maxHealth = 5;
+    public float timeInvincible = 2;
+    public int health { get { return currentHealth; }}
+    int currentHealth;
+    bool isInvincible;
+    float invincibleTimer;
+
+    public ParticleSystem protectiveEffect;
+    private int protective = 2;
+    public float timeProtective = 5;
+    float protectiveTimer;
+
+    public AudioSource jumpSound;
+    public AudioSource changeLaserSound;
+    public AudioSource itemSound;
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         localScale = transform.localScale;
+        currentHealth = maxHealth;
     }
 
     // Update is called once per frame
@@ -35,9 +50,29 @@ public class Character : MonoBehaviour
         {
             StartCoroutine(Shoot());
         }
-        if (Input.GetMouseButtonDown(0))
+        if (isInvincible)
         {
-            laser = lasernew;
+            invincibleTimer -= Time.deltaTime;
+            if (invincibleTimer < 0)
+                isInvincible = false;
+        }
+        if (protective == 1)
+        {
+            protectiveEffect.Play();
+            protectiveTimer -= Time.deltaTime;
+            if (protectiveTimer < 0)
+                protective = 3;
+        }
+        if(protective == 3 && protectiveEffect.isPlaying)
+        {
+            protectiveEffect.Clear();
+            Debug.Log("Stop effect");
+        }
+        if(currentHealth == 0)
+        {
+            Debug.Log("Chet roi");
+            Time.timeScale = 0f;
+            GamePlayController.instance.ShowLosePanel();
         }
     }
     private void Move()
@@ -45,7 +80,10 @@ public class Character : MonoBehaviour
         dirX = CrossPlatformInputManager.GetAxis("Horizontal") * moveSpeed;
 
         if (CrossPlatformInputManager.GetButtonDown("Jump") && rb.velocity.y == 0)
+        {
             rb.AddForce(Vector2.up * forcejump);
+            jumpSound.Play();
+        }
         if (Mathf.Abs(dirX) > 0 && rb.velocity.y == 0)
             anim.SetBool("IsRunning", true);
         else
@@ -90,5 +128,40 @@ public class Character : MonoBehaviour
             localScale.x *= -1;
 
         transform.localScale = localScale;
+    }
+    public void ChangeHealth(int amount)
+    {
+        if (amount < 0)
+        {
+            if (isInvincible || protective == 1)
+                return;
+
+            isInvincible = true;
+            invincibleTimer = timeInvincible;
+        }
+
+        currentHealth = Mathf.Clamp(currentHealth + amount, 0, maxHealth);
+        UIHealthBar.instance.SetValue(currentHealth / (float)maxHealth);
+    }
+    public void ChangeLaser(GameObject newlaser)
+    {
+        laser = newlaser;
+    }
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.tag == "mask")
+        {
+            itemSound.Play();
+            protective = 1;
+            protectiveTimer = timeProtective;
+        }
+        if (other.tag == "gel")
+        {
+            changeLaserSound.Play();
+        }
+        if (other.tag == "medicine")
+        {
+            itemSound.Play();
+        }
     }
 }

@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - destroylasercovid
+  - Covid
+  - destroylaser
+  - mask
+  - maxtren
+  - maxduoi
+  - KingCovid
+  - die
+  - gel
+  - medicine
   layers:
   - Default
   - TransparentFX
@@ -12,9 +22,9 @@ TagManager:
   - Water
   - UI
   - Laser
-  - 
-  - 
-  - 
+  - Covid
+  - LaserCovid
+  - die
   - 
   - 
   - 

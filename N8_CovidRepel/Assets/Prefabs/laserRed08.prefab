@@ -121,6 +121,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   DestroyEffect: {fileID: 6465514639750357363, guid: fc49c3674b8d60a43b97f71f883cfca8, type: 3}
+  DestroyCovidEffect: {fileID: 8743571568068842995, guid: 7259e3a2d19811848b5f5d35173ccdb5, type: 3}
+  DestroyBossEffect: {fileID: 4880327211452215341, guid: 766cdec139acdb74285cc8adc9b253ab, type: 3}
 --- !u!70 &3716050426556747046
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -134,8 +136,8 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.0016980246, y: 0.000000014901161}
-  m_Size: {x: 0.075868145, y: 0.45962366}
+  m_Offset: {x: -0.0016980208, y: 0.0018216074}
+  m_Size: {x: 0.08315452, y: 0.8057273}
   m_Direction: 0
 --- !u!70 &1704862329549907953
 CapsuleCollider2D:
@@ -150,8 +152,8 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.0025470369, y: 0.00084900856}
-  m_Size: {x: 0.4613216, y: 0.06567999}
+  m_Offset: {x: -0.008011829, y: 0.00084900856}
+  m_Size: {x: 0.803782, y: 0.076609574}
   m_Direction: 1
 --- !u!58 &2662775638657175120
 CircleCollider2D:
@@ -166,6 +168,6 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0025470555, y: 0.005094081}
+  m_Offset: {x: -0.0029177666, y: 0.0050940514}
   serializedVersion: 2
-  m_Radius: 0.15085325
+  m_Radius: 0.25832748

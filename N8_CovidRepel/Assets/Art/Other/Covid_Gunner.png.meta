@@ -1,0 +1,6492 @@
+fileFormatVersion: 2
+guid: deb3840bbea100840a8b0ce500e0e991
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3730987014803678381
+    second: Covid_Gunner_0
+  - first:
+      213: -3811733703157757638
+    second: Covid_Gunner_1
+  - first:
+      213: -5200402490359557210
+    second: Covid_Gunner_2
+  - first:
+      213: 8688525930366782219
+    second: Covid_Gunner_3
+  - first:
+      213: -8218610291960800667
+    second: Covid_Gunner_4
+  - first:
+      213: 5576333259591355836
+    second: Covid_Gunner_5
+  - first:
+      213: -8205065973208712001
+    second: Covid_Gunner_6
+  - first:
+      213: -7546465967742070074
+    second: Covid_Gunner_7
+  - first:
+      213: -8449373431135108703
+    second: Covid_Gunner_8
+  - first:
+      213: -5974265100465752641
+    second: Covid_Gunner_9
+  - first:
+      213: 6706665646964880113
+    second: Covid_Gunner_10
+  - first:
+      213: -4414005471481958544
+    second: Covid_Gunner_11
+  - first:
+      213: -3442974424857166816
+    second: Covid_Gunner_12
+  - first:
+      213: -4392784394781903329
+    second: Covid_Gunner_13
+  - first:
+      213: -5629503494872193408
+    second: Covid_Gunner_14
+  - first:
+      213: 2038383451110735405
+    second: Covid_Gunner_15
+  - first:
+      213: 1782471030847054321
+    second: Covid_Gunner_16
+  - first:
+      213: -2677103453670063545
+    second: Covid_Gunner_17
+  - first:
+      213: -5953116004922089903
+    second: Covid_Gunner_18
+  - first:
+      213: 7391009914244458527
+    second: Covid_Gunner_19
+  - first:
+      213: -3277493070380608622
+    second: Covid_Gunner_20
+  - first:
+      213: -8678884688501835174
+    second: Covid_Gunner_21
+  - first:
+      213: -4323212401401360066
+    second: Covid_Gunner_22
+  - first:
+      213: 5311497619887293193
+    second: Covid_Gunner_23
+  - first:
+      213: -5012406696440831505
+    second: Covid_Gunner_24
+  - first:
+      213: -705340900110549718
+    second: Covid_Gunner_25
+  - first:
+      213: -435103121608950084
+    second: Covid_Gunner_26
+  - first:
+      213: -181319597211573710
+    second: Covid_Gunner_27
+  - first:
+      213: -4120376320119494682
+    second: Covid_Gunner_28
+  - first:
+      213: 467670174206345764
+    second: Covid_Gunner_29
+  - first:
+      213: -3093960707624750553
+    second: Covid_Gunner_30
+  - first:
+      213: -2642860772101804311
+    second: Covid_Gunner_31
+  - first:
+      213: -7476700990492403603
+    second: Covid_Gunner_32
+  - first:
+      213: 6523697349794181690
+    second: Covid_Gunner_33
+  - first:
+      213: 2479567690414638554
+    second: Covid_Gunner_34
+  - first:
+      213: 4505428774341507100
+    second: Covid_Gunner_35
+  - first:
+      213: -846396082810456281
+    second: Covid_Gunner_36
+  - first:
+      213: -6884796368511778022
+    second: Covid_Gunner_37
+  - first:
+      213: 369178113991963562
+    second: Covid_Gunner_38
+  - first:
+      213: 1708362489510866225
+    second: Covid_Gunner_39
+  - first:
+      213: -3443082114309422501
+    second: Covid_Gunner_40
+  - first:
+      213: 3890515650141793824
+    second: Covid_Gunner_41
+  - first:
+      213: 5940253944354662611
+    second: Covid_Gunner_42
+  - first:
+      213: 1494226220047600477
+    second: Covid_Gunner_43
+  - first:
+      213: -290720093300854230
+    second: Covid_Gunner_44
+  - first:
+      213: 868974461151318335
+    second: Covid_Gunner_45
+  - first:
+      213: -1097935135661645427
+    second: Covid_Gunner_46
+  - first:
+      213: 4740282730476186712
+    second: Covid_Gunner_47
+  - first:
+      213: -8767124670353536918
+    second: Covid_Gunner_48
+  - first:
+      213: 2415126058535667551
+    second: Covid_Gunner_49
+  - first:
+      213: 4468602958364025044
+    second: Covid_Gunner_50
+  - first:
+      213: -9149946095425139427
+    second: Covid_Gunner_51
+  - first:
+      213: -5289761073288039777
+    second: Covid_Gunner_52
+  - first:
+      213: 5478713084700364893
+    second: Covid_Gunner_53
+  - first:
+      213: 3229646086865781637
+    second: Covid_Gunner_54
+  - first:
+      213: 237794726211038378
+    second: Covid_Gunner_55
+  - first:
+      213: -1697887547289207402
+    second: Covid_Gunner_56
+  - first:
+      213: -6149061328076286943
+    second: Covid_Gunner_57
+  - first:
+      213: -1067619411237363474
+    second: Covid_Gunner_58
+  - first:
+      213: 880119469994316675
+    second: Covid_Gunner_59
+  - first:
+      213: 4255340612336841573
+    second: Covid_Gunner_60
+  - first:
+      213: 8554880277983946418
+    second: Covid_Gunner_61
+  - first:
+      213: -3263879371950817388
+    second: Covid_Gunner_62
+  - first:
+      213: -3344754471066724164
+    second: Covid_Gunner_63
+  - first:
+      213: -6429465293066805770
+    second: Covid_Gunner_64
+  - first:
+      213: 801027893888027188
+    second: Covid_Gunner_65
+  - first:
+      213: -4322733487513278175
+    second: Covid_Gunner_66
+  - first:
+      213: -196107714268906254
+    second: Covid_Gunner_67
+  - first:
+      213: -9177871747559197046
+    second: Covid_Gunner_68
+  - first:
+      213: 6463795149867072459
+    second: Covid_Gunner_69
+  - first:
+      213: -572615818537373638
+    second: Covid_Gunner_70
+  - first:
+      213: -230797391289986918
+    second: Covid_Gunner_71
+  - first:
+      213: -7586835413080121247
+    second: Covid_Gunner_72
+  - first:
+      213: 6058291255103709571
+    second: Covid_Gunner_73
+  - first:
+      213: -3842812186985560500
+    second: Covid_Gunner_74
+  - first:
+      213: -4754920544521850138
+    second: Covid_Gunner_75
+  - first:
+      213: -4886526401391674569
+    second: Covid_Gunner_76
+  - first:
+      213: -58699547014349376
+    second: Covid_Gunner_77
+  - first:
+      213: 4611982268447827133
+    second: Covid_Gunner_78
+  - first:
+      213: -3536385299085315686
+    second: Covid_Gunner_79
+  - first:
+      213: -3874386496762239303
+    second: Covid_Gunner_80
+  - first:
+      213: 7629652282405610234
+    second: Covid_Gunner_81
+  - first:
+      213: 7960700396990335422
+    second: Covid_Gunner_82
+  - first:
+      213: 3557270866027297951
+    second: Covid_Gunner_83
+  - first:
+      213: -2191049970728814650
+    second: Covid_Gunner_84
+  - first:
+      213: -4602892010257386281
+    second: Covid_Gunner_85
+  - first:
+      213: 1754303052209977172
+    second: Covid_Gunner_86
+  - first:
+      213: -8617256499351257706
+    second: Covid_Gunner_87
+  - first:
+      213: 6382779173865845664
+    second: Covid_Gunner_88
+  - first:
+      213: -8831399735341394128
+    second: Covid_Gunner_89
+  - first:
+      213: -5317735139239571961
+    second: Covid_Gunner_90
+  - first:
+      213: -9176867142471869989
+    second: Covid_Gunner_91
+  - first:
+      213: 6058281938617467512
+    second: Covid_Gunner_92
+  - first:
+      213: 9199625307531328863
+    second: Covid_Gunner_93
+  - first:
+      213: -8980539045280330215
+    second: Covid_Gunner_94
+  - first:
+      213: -3984078724762648076
+    second: Covid_Gunner_95
+  - first:
+      213: 7754921756440488675
+    second: Covid_Gunner_96
+  - first:
+      213: -1764696143011678927
+    second: Covid_Gunner_97
+  - first:
+      213: -6173256188120719320
+    second: Covid_Gunner_98
+  - first:
+      213: 5513388148431320197
+    second: Covid_Gunner_99
+  - first:
+      213: 3586066080977421654
+    second: Covid_Gunner_100
+  - first:
+      213: 1733086313865740750
+    second: Covid_Gunner_101
+  - first:
+      213: 7779447380229198746
+    second: Covid_Gunner_102
+  - first:
+      213: -3201998855485225297
+    second: Covid_Gunner_103
+  - first:
+      213: -1098506657497601008
+    second: Covid_Gunner_104
+  - first:
+      213: 2360423896416460109
+    second: Covid_Gunner_105
+  - first:
+      213: -4442782993998914584
+    second: Covid_Gunner_106
+  - first:
+      213: -8649938136561247241
+    second: Covid_Gunner_107
+  - first:
+      213: 1708902602416579227
+    second: Covid_Gunner_108
+  - first:
+      213: -9212451742389197797
+    second: Covid_Gunner_109
+  - first:
+      213: -6935241603723392894
+    second: Covid_Gunner_110
+  - first:
+      213: 7446013113052377469
+    second: Covid_Gunner_111
+  - first:
+      213: -4003970615971915148
+    second: Covid_Gunner_112
+  - first:
+      213: 2715004004026070106
+    second: Covid_Gunner_113
+  - first:
+      213: 5975427406085689950
+    second: Covid_Gunner_114
+  - first:
+      213: -3378003821559990167
+    second: Covid_Gunner_115
+  - first:
+      213: 3918265075195925910
+    second: Covid_Gunner_116
+  - first:
+      213: -6023505993131419058
+    second: Covid_Gunner_117
+  - first:
+      213: 4055342115534695799
+    second: Covid_Gunner_118
+  - first:
+      213: 8107090818195791319
+    second: Covid_Gunner_119
+  - first:
+      213: 1350337362094989271
+    second: Covid_Gunner_120
+  - first:
+      213: 34004187551623707
+    second: Covid_Gunner_121
+  - first:
+      213: 677839267151591921
+    second: Covid_Gunner_122
+  - first:
+      213: -8810178226599165552
+    second: Covid_Gunner_123
+  - first:
+      213: -1787516307196791043
+    second: Covid_Gunner_124
+  - first:
+      213: 1275957690832416582
+    second: Covid_Gunner_125
+  - first:
+      213: 3513487401542781677
+    second: Covid_Gunner_126
+  - first:
+      213: -5054289033086576338
+    second: Covid_Gunner_127
+  - first:
+      213: 851599454297546146
+    second: Covid_Gunner_128
+  - first:
+      213: -5490021351604531334
+    second: Covid_Gunner_129
+  - first:
+      213: -8617345257086655403
+    second: Covid_Gunner_130
+  - first:
+      213: -2583946910314740098
+    second: Covid_Gunner_131
+  - first:
+      213: -6058959065440084502
+    second: Covid_Gunner_132
+  - first:
+      213: -7152998647635669636
+    second: Covid_Gunner_133
+  - first:
+      213: -4256992092891994767
+    second: Covid_Gunner_134
+  - first:
+      213: -1778200486302681241
+    second: Covid_Gunner_135
+  - first:
+      213: 4367518625026710518
+    second: Covid_Gunner_136
+  - first:
+      213: 6480043824086044217
+    second: Covid_Gunner_137
+  - first:
+      213: -7953884114309924353
+    second: Covid_Gunner_138
+  - first:
+      213: -2315850099781540772
+    second: Covid_Gunner_139
+  - first:
+      213: 8924036871443013681
+    second: Covid_Gunner_140
+  - first:
+      213: 3956498169298227966
+    second: Covid_Gunner_141
+  - first:
+      213: -4035970235064771166
+    second: Covid_Gunner_142
+  - first:
+      213: 1895015890751027094
+    second: Covid_Gunner_143
+  - first:
+      213: 1076054047226679596
+    second: Covid_Gunner_144
+  - first:
+      213: -5826091145341877192
+    second: Covid_Gunner_145
+  - first:
+      213: 7656338094508158971
+    second: Covid_Gunner_146
+  - first:
+      213: -1773757446425712761
+    second: Covid_Gunner_147
+  - first:
+      213: 6667871874856088379
+    second: Covid_Gunner_148
+  - first:
+      213: 5653674555181753093
+    second: Covid_Gunner_149
+  - first:
+      213: 4189151556849381097
+    second: Covid_Gunner_150
+  - first:
+      213: -8645750315705573557
+    second: Covid_Gunner_151
+  - first:
+      213: 6015098240382079128
+    second: Covid_Gunner_152
+  - first:
+      213: 6952347736706702224
+    second: Covid_Gunner_153
+  - first:
+      213: 7930140958761776328
+    second: Covid_Gunner_154
+  - first:
+      213: -3674314376152046828
+    second: Covid_Gunner_155
+  - first:
+      213: -9071178687789195469
+    second: Covid_Gunner_156
+  - first:
+      213: -5729117217650468445
+    second: Covid_Gunner_157
+  - first:
+      213: 5890142492861864721
+    second: Covid_Gunner_158
+  - first:
+      213: 8406425971856480115
+    second: Covid_Gunner_159
+  - first:
+      213: 101174518808075400
+    second: Covid_Gunner_160
+  - first:
+      213: -8957527212955264337
+    second: Covid_Gunner_161
+  - first:
+      213: 7799989874359920628
+    second: Covid_Gunner_162
+  - first:
+      213: -5236403658485822441
+    second: Covid_Gunner_163
+  - first:
+      213: -6994098306980488466
+    second: Covid_Gunner_164
+  - first:
+      213: -8266612196878473718
+    second: Covid_Gunner_165
+  - first:
+      213: 2329925284819301340
+    second: Covid_Gunner_166
+  - first:
+      213: -3980982969345547997
+    second: Covid_Gunner_167
+  - first:
+      213: -756949143292367160
+    second: Covid_Gunner_168
+  - first:
+      213: -7856198356247967323
+    second: Covid_Gunner_169
+  - first:
+      213: 6819272910629903078
+    second: Covid_Gunner_170
+  - first:
+      213: -2668880094849336453
+    second: Covid_Gunner_171
+  - first:
+      213: 5163110459951654412
+    second: Covid_Gunner_172
+  - first:
+      213: 8329101611233107952
+    second: Covid_Gunner_173
+  - first:
+      213: -5116865381773749329
+    second: Covid_Gunner_174
+  - first:
+      213: -3230961596685160592
+    second: Covid_Gunner_175
+  - first:
+      213: -3023847509563001859
+    second: Covid_Gunner_176
+  - first:
+      213: -724912935832365428
+    second: Covid_Gunner_177
+  - first:
+      213: -8903155781607816943
+    second: Covid_Gunner_178
+  - first:
+      213: -513306001086676409
+    second: Covid_Gunner_179
+  - first:
+      213: 7961196125270654124
+    second: Covid_Gunner_180
+  - first:
+      213: -7091539958956217886
+    second: Covid_Gunner_181
+  - first:
+      213: 6108358450326296299
+    second: Covid_Gunner_182
+  - first:
+      213: -7406800913332849436
+    second: Covid_Gunner_183
+  - first:
+      213: 1504152768095563174
+    second: Covid_Gunner_184
+  - first:
+      213: 154289769435550668
+    second: Covid_Gunner_185
+  - first:
+      213: 5608047893903508822
+    second: Covid_Gunner_186
+  - first:
+      213: -3378279924768194810
+    second: Covid_Gunner_187
+  - first:
+      213: 1533231504215726538
+    second: Covid_Gunner_188
+  - first:
+      213: 4056520511579180619
+    second: Covid_Gunner_189
+  - first:
+      213: 7570420027399852490
+    second: Covid_Gunner_190
+  - first:
+      213: 3217316838201336715
+    second: Covid_Gunner_191
+  - first:
+      213: 7786543590989166618
+    second: Covid_Gunner_192
+  - first:
+      213: 5393470294816984262
+    second: Covid_Gunner_193
+  - first:
+      213: -1908992123750196458
+    second: Covid_Gunner_194
+  - first:
+      213: -2904174509243030578
+    second: Covid_Gunner_195
+  - first:
+      213: 4734350959860966479
+    second: Covid_Gunner_196
+  - first:
+      213: 299089668280441532
+    second: Covid_Gunner_197
+  - first:
+      213: -8496235207351928615
+    second: Covid_Gunner_198
+  - first:
+      213: 2274673427153120266
+    second: Covid_Gunner_199
+  - first:
+      213: 6656893757130114591
+    second: Covid_Gunner_200
+  - first:
+      213: -6348595249652468327
+    second: Covid_Gunner_201
+  - first:
+      213: 3348308564812444805
+    second: Covid_Gunner_202
+  - first:
+      213: 8474656548300561850
+    second: Covid_Gunner_203
+  - first:
+      213: 3977751822758152175
+    second: Covid_Gunner_204
+  - first:
+      213: 6369917417196021865
+    second: Covid_Gunner_205
+  - first:
+      213: 1137850912029282967
+    second: Covid_Gunner_206
+  - first:
+      213: 6661524225607987268
+    second: Covid_Gunner_207
+  - first:
+      213: -1570130682918911199
+    second: Covid_Gunner_208
+  - first:
+      213: -7595643460086289484
+    second: Covid_Gunner_209
+  - first:
+      213: -3787087548602797347
+    second: Covid_Gunner_210
+  - first:
+      213: 6107499275770359113
+    second: Covid_Gunner_211
+  - first:
+      213: -2026572738105152879
+    second: Covid_Gunner_212
+  - first:
+      213: 9161367270873371322
+    second: Covid_Gunner_213
+  - first:
+      213: -1775215563803327047
+    second: Covid_Gunner_214
+  - first:
+      213: -2077669697079810280
+    second: Covid_Gunner_215
+  - first:
+      213: -1783390928846091565
+    second: Covid_Gunner_216
+  - first:
+      213: 1726512762900842918
+    second: Covid_Gunner_217
+  - first:
+      213: 3829720067175363693
+    second: Covid_Gunner_218
+  - first:
+      213: 3611771815316680526
+    second: Covid_Gunner_219
+  - first:
+      213: -3331340363611108031
+    second: Covid_Gunner_220
+  - first:
+      213: 2846245447475712641
+    second: Covid_Gunner_221
+  - first:
+      213: -6515119184221778521
+    second: Covid_Gunner_222
+  - first:
+      213: 3485159246428939294
+    second: Covid_Gunner_223
+  - first:
+      213: -6730750898904124331
+    second: Covid_Gunner_224
+  - first:
+      213: 346309124530795194
+    second: Covid_Gunner_225
+  - first:
+      213: 3730628275122874713
+    second: Covid_Gunner_226
+  - first:
+      213: -2161823900211242378
+    second: Covid_Gunner_227
+  - first:
+      213: 2472666155902571810
+    second: Covid_Gunner_228
+  - first:
+      213: -2641305958746050257
+    second: Covid_Gunner_229
+  - first:
+      213: -6484240095932909240
+    second: Covid_Gunner_230
+  - first:
+      213: 4308911224879990564
+    second: Covid_Gunner_231
+  - first:
+      213: 9156468503694654971
+    second: Covid_Gunner_232
+  - first:
+      213: 3139849867730903708
+    second: Covid_Gunner_233
+  - first:
+      213: 460241794230330583
+    second: Covid_Gunner_234
+  - first:
+      213: -1978946105762849862
+    second: Covid_Gunner_235
+  - first:
+      213: -1289269416788671048
+    second: Covid_Gunner_236
+  - first:
+      213: 2443505834481079785
+    second: Covid_Gunner_237
+  - first:
+      213: 2156054352206542678
+    second: Covid_Gunner_238
+  - first:
+      213: 3275446814454727772
+    second: Covid_Gunner_239
+  - first:
+      213: 4371244894547531236
+    second: Covid_Gunner_240
+  - first:
+      213: 4977011509966840923
+    second: Covid_Gunner_241
+  - first:
+      213: 8219356489344925536
+    second: Covid_Gunner_242
+  - first:
+      213: 2441755011998870305
+    second: Covid_Gunner_243
+  - first:
+      213: 7557961466621134359
+    second: Covid_Gunner_244
+  - first:
+      213: 4837533847447327556
+    second: Covid_Gunner_245
+  - first:
+      213: 7892880636563056920
+    second: Covid_Gunner_246
+  - first:
+      213: -4022072973946593255
+    second: Covid_Gunner_247
+  - first:
+      213: -2150288849043686358
+    second: Covid_Gunner_248
+  - first:
+      213: -157539498354457136
+    second: Covid_Gunner_249
+  - first:
+      213: 6871476644787115892
+    second: Covid_Gunner_250
+  - first:
+      213: 6679695318823879021
+    second: Covid_Gunner_251
+  - first:
+      213: -612175459118851023
+    second: Covid_Gunner_252
+  - first:
+      213: -6875936533324925627
+    second: Covid_Gunner_253
+  - first:
+      213: -1228728855305558365
+    second: Covid_Gunner_254
+  - first:
+      213: -3486020910565981853
+    second: Covid_Gunner_255
+  - first:
+      213: -1080379920921451931
+    second: Covid_Gunner_256
+  - first:
+      213: -5510157735179766202
+    second: Covid_Gunner_257
+  - first:
+      213: 7629308639958105070
+    second: Covid_Gunner_258
+  - first:
+      213: 3375053221184369921
+    second: Covid_Gunner_259
+  - first:
+      213: -4458614273828151053
+    second: Covid_Gunner_260
+  - first:
+      213: -68660574866996844
+    second: Covid_Gunner_261
+  - first:
+      213: 6487470839881824185
+    second: Covid_Gunner_262
+  - first:
+      213: -1695348599886646587
+    second: Covid_Gunner_263
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Covid_Gunner_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4916
+        width: 273
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4e7fe1ce027c330800000000000000
+      internalID: 3730987014803678381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 5142
+        width: 93
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39c5e474600a1bc0800000000000000
+      internalID: -3811733703157757638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_2
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 4916
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3df09ec7574d7b0800000000000000
+      internalID: -5200402490359557210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_3
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 5142
+        width: 93
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b4845cc48d39870800000000000000
+      internalID: 8688525930366782219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_4
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 4916
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a9e48cb71a1fd80800000000000000
+      internalID: -8218610291960800667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_5
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 5142
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd832f0e8d136d40800000000000000
+      internalID: 5576333259591355836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_6
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 4916
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcff3c38ffb12e80800000000000000
+      internalID: -8205065973208712001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_7
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 5142
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2d82b6f21954790800000000000000
+      internalID: -7546465967742070074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_8
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 4916
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1819e81abcdba80800000000000000
+      internalID: -8449373431135108703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_9
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 5142
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5b9bc4b85271da0800000000000000
+      internalID: -5974265100465752641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4876
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f238aa5fdcd21d50800000000000000
+      internalID: 6706665646964880113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_11
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 4853
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fefabf86d4eb2c0800000000000000
+      internalID: -4414005471481958544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_12
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 4909
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c32a390091830d0800000000000000
+      internalID: -3442974424857166816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_13
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 4853
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16352eedd1b903c0800000000000000
+      internalID: -4392784394781903329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_14
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 4909
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086a256d56cffd1b0800000000000000
+      internalID: -5629503494872193408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_15
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 4853
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e7d7fe2fac94c10800000000000000
+      internalID: 2038383451110735405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_16
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 4909
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1201865fb9cb810800000000000000
+      internalID: 1782471030847054321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_17
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 4853
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7424601c79409dad0800000000000000
+      internalID: -2677103453670063545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_18
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 4909
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e1de3d888426da0800000000000000
+      internalID: -5953116004922089903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_19
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 4853
+        width: 60
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f186ee59b54229660800000000000000
+      internalID: 7391009914244458527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4584
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293d82ada610482d0800000000000000
+      internalID: -3277493070380608622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 4629
+        width: 241
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a7547cb586e8780800000000000000
+      internalID: -8678884688501835174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 4622
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3198ede93dd004c0800000000000000
+      internalID: -4323212401401360066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_23
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 4629
+        width: 238
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90307ba91fa36b940800000000000000
+      internalID: 5311497619887293193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_24
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 4622
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1eadc9aaa507ab0800000000000000
+      internalID: -5012406696440831505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_25
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 4629
+        width: 241
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d3b5b30302636f0800000000000000
+      internalID: -705340900110549718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_26
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 4622
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbeb5d3240436f9f0800000000000000
+      internalID: -435103121608950084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_27
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 4627
+        width: 241
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232236979c2db7df0800000000000000
+      internalID: -181319597211573710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_28
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 4622
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7a85a419b71d6c0800000000000000
+      internalID: -4120376320119494682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_29
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 4627
+        width: 238
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4224d9dab8f7d7600800000000000000
+      internalID: 467670174206345764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_30
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 4561
+        width: 60
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722b201012b0015d0800000000000000
+      internalID: -3093960707624750553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_31
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 4340
+        width: 239
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eeae08512ca25bd0800000000000000
+      internalID: -2642860772101804311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_32
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 4563
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6893e9ff0c6d3890800000000000000
+      internalID: -7476700990492403603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_33
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 4340
+        width: 238
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32b3a4fc24d88a50800000000000000
+      internalID: 6523697349794181690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_34
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 4561
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad543b75da1396220800000000000000
+      internalID: 2479567690414638554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_35
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 4340
+        width: 239
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18f277799f768e30800000000000000
+      internalID: 4505428774341507100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_36
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 4561
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727fcc04f3ff044f0800000000000000
+      internalID: -846396082810456281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_37
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 4340
+        width: 240
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13c4f71e2a4470a0800000000000000
+      internalID: -6884796368511778022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_38
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 4561
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3f657e9859f1500800000000000000
+      internalID: 369178113991963562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_39
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 4340
+        width: 238
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13da5e602a255b710800000000000000
+      internalID: 1708362489510866225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4292
+        width: 37
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52061c2f07b730d0800000000000000
+      internalID: -3443082114309422501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_41
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 4335
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02eacc7fe53edf530800000000000000
+      internalID: 3890515650141793824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_42
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 4332
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d86fd45d75007250800000000000000
+      internalID: 5940253944354662611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_43
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 4342
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b030494de8cb410800000000000000
+      internalID: 1494226220047600477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_44
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 4332
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22fbbd8d9727fbf0800000000000000
+      internalID: -290720093300854230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_45
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 4271
+        width: 60
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f319fcb1ba73f0c00800000000000000
+      internalID: 868974461151318335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_46
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 4050
+        width: 239
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81a77cafc953c0f0800000000000000
+      internalID: -1097935135661645427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_47
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 4271
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ca3fc370ed8c140800000000000000
+      internalID: 4740282730476186712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_48
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 4050
+        width: 238
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a688302009ae45680800000000000000
+      internalID: -8767124670353536918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_49
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 4271
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57cec6ba50448120800000000000000
+      internalID: 2415126058535667551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_50
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 4048
+        width: 239
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d02c8707baa30e30800000000000000
+      internalID: 4468602958364025044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_51
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 4271
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d4634318cd40180800000000000000
+      internalID: -9149946095425139427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_52
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 4048
+        width: 238
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f923af7845ef696b0800000000000000
+      internalID: -5289761073288039777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_53
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 4271
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5099d7e58c480c40800000000000000
+      internalID: 5478713084700364893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_54
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 4048
+        width: 238
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5838ddd210202dc20800000000000000
+      internalID: 3229646086865781637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac25492b01dc4300800000000000000
+      internalID: 237794726211038378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_56
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 3982
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d74438544ef68e0800000000000000
+      internalID: -1697887547289207402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_57
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 4043
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124dbed1d452aaaa0800000000000000
+      internalID: -6149061328076286943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_58
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 3982
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0a2ed4dcd0f21f0800000000000000
+      internalID: -1067619411237363474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_59
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 4043
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3839ae0beffc63c00800000000000000
+      internalID: 880119469994316675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_60
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 3982
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56371acbdb10e0b30800000000000000
+      internalID: 4255340612336841573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_61
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 4043
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b66a31894a09b670800000000000000
+      internalID: 8554880277983946418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_62
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 3982
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f7525010f54b2d0800000000000000
+      internalID: -3263879371950817388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_63
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 4043
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb81b23a78b0591d0800000000000000
+      internalID: -3344754471066724164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_64
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 3982
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fddc077163f5c6a0800000000000000
+      internalID: -6429465293066805770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3710
+        width: 39
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a006e10a2dd1b00800000000000000
+      internalID: 801027893888027188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_66
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 3761
+        width: 239
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129e512cbc09204c0800000000000000
+      internalID: -4322733487513278175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_67
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 3753
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcb949a219474df0800000000000000
+      internalID: -196107714268906254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_68
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 3761
+        width: 238
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86f3a4a546a1a080800000000000000
+      internalID: -9177871747559197046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_69
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 3753
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb38b0317304b950800000000000000
+      internalID: 6463795149867072459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_70
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 3761
+        width: 239
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a307f4762f8ad08f0800000000000000
+      internalID: -572615818537373638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_71
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 3753
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90d215defa0cccf0800000000000000
+      internalID: -230797391289986918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_72
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 3761
+        width: 238
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160610a736526b690800000000000000
+      internalID: -7586835413080121247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_73
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 3758
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381ef4e5ccf531450800000000000000
+      internalID: 6058291255103709571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_74
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 3758
+        width: 238
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c460f201da69baac0800000000000000
+      internalID: -3842812186985560500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_75
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 3691
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2719815f0230eb0800000000000000
+      internalID: -4754920544521850138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_76
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 3470
+        width: 239
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b3b7bb0229f2cb0800000000000000
+      internalID: -4886526401391674569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_77
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 3692
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdbbbfa2157f2ff0800000000000000
+      internalID: -58699547014349376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_78
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 3470
+        width: 238
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4ab35107d010040800000000000000
+      internalID: 4611982268447827133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_79
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 3692
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a913b1b9e4c3ceec0800000000000000
+      internalID: -3536385299085315686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_80
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 3468
+        width: 239
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6aae1320a6b3ac0800000000000000
+      internalID: -3874386496762239303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_81
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 3692
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2e884c358f1e960800000000000000
+      internalID: 7629652282405610234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_82
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 3468
+        width: 238
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb98bed55d61a7e60800000000000000
+      internalID: 7960700396990335422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_83
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 3691
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c37636107fd5130800000000000000
+      internalID: 3557270866027297951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_84
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 3468
+        width: 260
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7349909a3d791e0800000000000000
+      internalID: -2191049970728814650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3420
+        width: 37
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4ff159a1e3f10c0800000000000000
+      internalID: -4602892010257386281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_86
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 3466
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457fb5fc459885810800000000000000
+      internalID: 1754303052209977172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_87
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 3468
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dfdb9beda596880800000000000000
+      internalID: -8617256499351257706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_88
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 3468
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3f80a57df249850800000000000000
+      internalID: 6382779173865845664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_89
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 3466
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0375f714bb0907580800000000000000
+      internalID: -8831399735341394128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_90
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 3179
+        width: 239
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e4300c01c9336b0800000000000000
+      internalID: -5317735139239571961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_91
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 3402
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9920e74f735a080800000000000000
+      internalID: -9176867142471869989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_92
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 3179
+        width: 238
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87285743357531450800000000000000
+      internalID: 6058281938617467512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_93
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 3402
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d391ab972abaf70800000000000000
+      internalID: 9199625307531328863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_94
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 3179
+        width: 241
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e4a8ab157be5380800000000000000
+      internalID: -8980539045280330215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_95
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 3401
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1c4552285b5b8c0800000000000000
+      internalID: -3984078724762648076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_96
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 3179
+        width: 241
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea659900440f9b60800000000000000
+      internalID: 7754921756440488675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_97
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 3401
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135794b253a8287e0800000000000000
+      internalID: -1764696143011678927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_98
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 3179
+        width: 238
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82025974430345aa0800000000000000
+      internalID: -6173256188120719320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_99
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 3401
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584f8105f4d738c40800000000000000
+      internalID: 5513388148431320197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3133
+        width: 38
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6558cb1d91444c130800000000000000
+      internalID: 3586066080977421654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_101
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 3176
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec10f07f1d82d0810800000000000000
+      internalID: 1733086313865740750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_102
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 3176
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93976fcc2626fb60800000000000000
+      internalID: 7779447380229198746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_103
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 3176
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6889f71073093d0800000000000000
+      internalID: -3201998855485225297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_104
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 3176
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c2470e30251c0f0800000000000000
+      internalID: -1098506657497601008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_105
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 3113
+        width: 60
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d1f391709e1c020800000000000000
+      internalID: 2360423896416460109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2889
+        width: 241
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb5c84e7601852c0800000000000000
+      internalID: -4442782993998914584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_107
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 3113
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb9929181f35f780800000000000000
+      internalID: -8649938136561247241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_108
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2889
+        width: 238
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92e7ccdcdd37b710800000000000000
+      internalID: 1708902602416579227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_109
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 3113
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14a67033fbc62080800000000000000
+      internalID: -9212451742389197797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_110
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2889
+        width: 241
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2888e82818211cf90800000000000000
+      internalID: -6935241603723392894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_111
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 3113
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d713364c97d855760800000000000000
+      internalID: 7446013113052377469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_112
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 2887
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a54ef40f90f68c0800000000000000
+      internalID: -4003970615971915148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_113
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 3113
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54bcb7c1c1ada520800000000000000
+      internalID: 2715004004026070106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_114
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 2887
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e521fd0119bfce250800000000000000
+      internalID: 5975427406085689950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2844
+        width: 39
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9683106fb6bee11d0800000000000000
+      internalID: -3378003821559990167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_116
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2887
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6955fd67359706630800000000000000
+      internalID: 3918265075195925910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_117
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 2887
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a17f09635386ca0800000000000000
+      internalID: -6023505993131419058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_118
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 2887
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d602ffa28774830800000000000000
+      internalID: 4055342115534695799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_119
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 2887
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd146c552c228070800000000000000
+      internalID: 8107090818195791319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_120
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 2826
+        width: 60
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df1c9a2dac5db210800000000000000
+      internalID: 1350337362094989271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2600
+        width: 241
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ae3efd0aec87000800000000000000
+      internalID: 34004187551623707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_122
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 2823
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9b16dd83b286900800000000000000
+      internalID: 677839267151591921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_123
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2600
+        width: 238
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0910dabc495fbb580800000000000000
+      internalID: -8810178226599165552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_124
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2823
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df63157a3677137e0800000000000000
+      internalID: -1787516307196791043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_125
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2600
+        width: 241
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f6e7e62cc15b110800000000000000
+      internalID: 1275957690832416582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_126
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 2823
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea84cb2d2a62c030800000000000000
+      internalID: 3513487401542781677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_127
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 2600
+        width: 241
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29d8b637ee8bd9b0800000000000000
+      internalID: -5054289033086576338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_128
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 2823
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad5254113d71db00800000000000000
+      internalID: 851599454297546146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_129
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 2600
+        width: 241
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f4d480ba68fc3b0800000000000000
+      internalID: -5490021351604531334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2559
+        width: 38
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554e374352a096880800000000000000
+      internalID: -8617345257086655403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_131
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2600
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76c834b9f9f32cd0800000000000000
+      internalID: -2583946910314740098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_132
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 2600
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed9fcbe4d04aeba0800000000000000
+      internalID: -6058959065440084502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_133
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 2600
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d83d0d0a17bbc90800000000000000
+      internalID: -7152998647635669636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_134
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 2600
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175a68bfe302ce4c0800000000000000
+      internalID: -4256992092891994767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_135
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 2536
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767708a34109257e0800000000000000
+      internalID: -1778200486302681241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_136
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2310
+        width: 243
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb9e92ac0b8c9c30800000000000000
+      internalID: 4367518625026710518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_137
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2536
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ecc97768dbde950800000000000000
+      internalID: 6480043824086044217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_138
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2310
+        width: 241
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff93fed1a802e9190800000000000000
+      internalID: -7953884114309924353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_139
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2536
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54e779aa927cdfd0800000000000000
+      internalID: -2315850099781540772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_140
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2310
+        width: 241
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13069d4c04c88db70800000000000000
+      internalID: 8924036871443013681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_141
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 2536
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2118f5f1e48e630800000000000000
+      internalID: 3956498169298227966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_142
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 2310
+        width: 241
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad1ae6647a5df7c0800000000000000
+      internalID: -4035970235064771166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_143
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 2536
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6977fe399e27c4a10800000000000000
+      internalID: 1895015890751027094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_144
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 2310
+        width: 241
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21511c6479eeee00800000000000000
+      internalID: 1076054047226679596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2272
+        width: 39
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83449d4a8f0952fa0800000000000000
+      internalID: -5826091145341877192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_146
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2315
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff23739ee6c04a60800000000000000
+      internalID: 7656338094508158971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_147
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 2315
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787671010095267e0800000000000000
+      internalID: -1773757446425712761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_148
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 2313
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b337d9c642a098c50800000000000000
+      internalID: 6667871874856088379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_149
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 2313
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503e541bd03e57e40800000000000000
+      internalID: 5653674555181753093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_150
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 2249
+        width: 60
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee2848552bd22a30800000000000000
+      internalID: 4189151556849381097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_151
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2021
+        width: 243
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fd5af15ef140880800000000000000
+      internalID: -8645750315705573557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_152
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2247
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8901d03fafbe97350800000000000000
+      internalID: 6015098240382079128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_153
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2021
+        width: 244
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bd4617e63bb7060800000000000000
+      internalID: 6952347736706702224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_154
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2249
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c475c1bf258d0e60800000000000000
+      internalID: 7930140958761776328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_155
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 2021
+        width: 243
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413a850da86320dc0800000000000000
+      internalID: -3674314376152046828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_156
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 2249
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f1b3c6b03bc1280800000000000000
+      internalID: -9071178687789195469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_157
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 2021
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a99e55ae361e70b0800000000000000
+      internalID: -5729117217650468445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_158
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 2249
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b1773d36dfdb150800000000000000
+      internalID: 5890142492861864721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_159
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 2021
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3779f1bd1ef99a470800000000000000
+      internalID: 8406425971856480115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1985
+        width: 37
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c50e550b1776100800000000000000
+      internalID: 101174518808075400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_161
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2026
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa18e5757870b380800000000000000
+      internalID: -8957527212955264337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_162
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 2026
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7edd0f6712f3c60800000000000000
+      internalID: 7799989874359920628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_163
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 2026
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c8563cd9e8457b0800000000000000
+      internalID: -5236403658485822441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_164
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 2026
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea544865a8ffee90800000000000000
+      internalID: -6994098306980488466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_165
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1962
+        width: 60
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06a52d5108174d80800000000000000
+      internalID: -8266612196878473718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_166
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1731
+        width: 243
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3fadab3be855020800000000000000
+      internalID: 2329925284819301340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_167
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1960
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321674fd415b0c8c0800000000000000
+      internalID: -3980982969345547997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_168
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1734
+        width: 244
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cea501c3c6ce75f0800000000000000
+      internalID: -756949143292367160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_169
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1960
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a905da083d29f290800000000000000
+      internalID: -7856198356247967323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_170
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1734
+        width: 243
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea1a88059ce2ae50800000000000000
+      internalID: 6819272910629903078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_171
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1961
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bf46ea1bb36fad0800000000000000
+      internalID: -2668880094849336453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_172
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1734
+        width: 241
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06a585ab9d07a740800000000000000
+      internalID: 5163110459951654412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_173
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1962
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffdea339c9e69370800000000000000
+      internalID: 8329101611233107952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_174
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1734
+        width: 241
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3d1ebab0e3df8b0800000000000000
+      internalID: -5116865381773749329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1698
+        width: 39
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fe6a2db815923d0800000000000000
+      internalID: -3230961596685160592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_176
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1736
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df33c8906b22906d0800000000000000
+      internalID: -3023847509563001859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_177
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1736
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8650ae868790f5f0800000000000000
+      internalID: -724912935832365428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_178
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1736
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1110d41dcf2a17480800000000000000
+      internalID: -8903155781607816943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_179
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1736
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742072069ee50e8f0800000000000000
+      internalID: -513306001086676409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_180
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1675
+        width: 60
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac39f912b9db7e60800000000000000
+      internalID: 7961196125270654124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_181
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1444
+        width: 243
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e92debdaf9c59d90800000000000000
+      internalID: -7091539958956217886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_182
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1673
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be65478a5af35c450800000000000000
+      internalID: 6108358450326296299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_183
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1444
+        width: 244
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4b1ceefc1c53990800000000000000
+      internalID: -7406800913332849436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_184
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1673
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ada14629f2dfd410800000000000000
+      internalID: 1504152768095563174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_185
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1444
+        width: 243
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3dea35ab5242200800000000000000
+      internalID: 154289769435550668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_186
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1673
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6550f77c8d9c3dd40800000000000000
+      internalID: 5608047893903508822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_187
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1444
+        width: 241
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fbb5cae40fd11d0800000000000000
+      internalID: -3378279924768194810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_188
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1675
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9573ffde1274510800000000000000
+      internalID: 1533231504215726538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_189
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1444
+        width: 241
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e43c4b9e7ab4830800000000000000
+      internalID: 4056520511579180619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1412
+        width: 37
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1dba5b7e88f0960800000000000000
+      internalID: 7570420027399852490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_191
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1386
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83afd64e9436ac20800000000000000
+      internalID: 3217316838201336715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_192
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1444
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18f001242c5f0c60800000000000000
+      internalID: 7786543590989166618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_193
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1386
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc003548a479da40800000000000000
+      internalID: 5393470294816984262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_194
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1444
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bd9d817c5e185e0800000000000000
+      internalID: -1908992123750196458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_195
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1386
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec323dabbac42b7d0800000000000000
+      internalID: -2904174509243030578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_196
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1444
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44ea844d1bc3b140800000000000000
+      internalID: 4734350959860966479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_197
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1386
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba58d9f774962400800000000000000
+      internalID: 299089668280441532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_198
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1444
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8fe99081f471a80800000000000000
+      internalID: -8496235207351928615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_199
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 1386
+        width: 57
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c6b752e63419f10800000000000000
+      internalID: 2274673427153120266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1124
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1681453a99026c50800000000000000
+      internalID: 6656893757130114591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_201
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1157
+        width: 243
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9957bb9b14245e7a0800000000000000
+      internalID: -6348595249652468327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_202
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1099
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5843b0c46e4977e20800000000000000
+      internalID: 3348308564812444805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_203
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1154
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd94e2ea370c9570800000000000000
+      internalID: 8474656548300561850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_204
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1157
+        width: 244
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe789203530d33730800000000000000
+      internalID: 3977751822758152175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_205
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1099
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968ea84442e766850800000000000000
+      internalID: 6369917417196021865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_206
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1154
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7921cda30657acf00800000000000000
+      internalID: 1137850912029282967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_207
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1157
+        width: 243
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440f50a2dfc727c50800000000000000
+      internalID: 6661524225607987268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_208
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1099
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1234da97676c53ae0800000000000000
+      internalID: -1570130682918911199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_209
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1154
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bba909348ad69690800000000000000
+      internalID: -7595643460086289484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_210
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1157
+        width: 241
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2b93c70ff817bc0800000000000000
+      internalID: -3787087548602797347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_211
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1099
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d6f3e7b3232c450800000000000000
+      internalID: 6107499275770359113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_212
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1152
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a60c9f4da20e3e0800000000000000
+      internalID: -2026572738105152879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_213
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1157
+        width: 241
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab21c4d6ef6b32f70800000000000000
+      internalID: 9161367270873371322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_214
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 1099
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b502c7a9da2d57e0800000000000000
+      internalID: -1775215563803327047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_215
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 835
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817e6f02b62aa23e0800000000000000
+      internalID: -2077669697079810280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_216
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 869
+        width: 243
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da8976266f1047e0800000000000000
+      internalID: -1783390928846091565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_217
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 865
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a902ecd53ec5f710800000000000000
+      internalID: 1726512762900842918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_218
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 869
+        width: 244
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d643c214c16e52530800000000000000
+      internalID: 3829720067175363693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_219
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 864
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fe7bd74579f1230800000000000000
+      internalID: 3611771815316680526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_220
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 870
+        width: 243
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d0a09e693b4c1d0800000000000000
+      internalID: -3331340363611108031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_221
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 864
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182dc588725ef7720800000000000000
+      internalID: 2846245447475712641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_222
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 870
+        width: 241
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adc02bde95a595a0800000000000000
+      internalID: -6515119184221778521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_223
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 864
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14a0159ed5cd5030800000000000000
+      internalID: 3485159246428939294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_224
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 870
+        width: 241
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554bd2fe7b19792a0800000000000000
+      internalID: -6730750898904124331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_225
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 809
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2722e50565ec400800000000000000
+      internalID: 346309124530795194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_226
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 580
+        width: 243
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9592ab786aad5c330800000000000000
+      internalID: 3730628275122874713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_227
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 809
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a95f8dd98aff1e0800000000000000
+      internalID: -2161823900211242378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_228
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 580
+        width: 244
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22514be94cca05220800000000000000
+      internalID: 2472666155902571810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_229
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 809
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21b1d98932385bd0800000000000000
+      internalID: -2641305958746050257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_230
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 580
+        width: 243
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849f29bdcf95306a0800000000000000
+      internalID: -6484240095932909240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_231
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 809
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4274aafede35ccb30800000000000000
+      internalID: 4308911224879990564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_232
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 580
+        width: 241
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdb5cf479f421f70800000000000000
+      internalID: 9156468503694654971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_233
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 809
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92682ea1dcf29b20800000000000000
+      internalID: 3139849867730903708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_234
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 580
+        width: 241
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d423ef297b136600800000000000000
+      internalID: 460241794230330583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_235
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 545
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbdc50700f5984e0800000000000000
+      internalID: -1978946105762849862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_236
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 520
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b54988db489b1ee0800000000000000
+      internalID: -1289269416788671048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_237
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 575
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5d6d63c9319e120800000000000000
+      internalID: 2443505834481079785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_238
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 520
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657b4b39208dbed10800000000000000
+      internalID: 2156054352206542678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_239
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 575
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5442401689b47d20800000000000000
+      internalID: 3275446814454727772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_240
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 520
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5debd5218c9ac30800000000000000
+      internalID: 4371244894547531236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_241
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 575
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54aa965995e11540800000000000000
+      internalID: 4977011509966840923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_242
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 519
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fb4b5dd25011270800000000000000
+      internalID: 8219356489344925536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_243
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 575
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12be8b61f3bd2e120800000000000000
+      internalID: 2441755011998870305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_244
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 520
+        width: 60
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7160b0cf8e543e860800000000000000
+      internalID: 7557961466621134359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_245
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443d606676f522340800000000000000
+      internalID: 4837533847447327556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_246
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81966e4ee15298d60800000000000000
+      internalID: 7892880636563056920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_247
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 243
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910e637a0f9be28c0800000000000000
+      internalID: -4022072973946593255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_248
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 291
+        width: 243
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c744c3fa3a822e0800000000000000
+      internalID: -2150288849043686358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_249
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 230
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d54d7239ae40ddf0800000000000000
+      internalID: -157539498354457136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_250
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 286
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477ddee0a936c5f50800000000000000
+      internalID: 6871476644787115892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_251
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61465e708b03bc50800000000000000
+      internalID: 6679695318823879021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_252
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 293
+        width: 244
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c5203d9ad1187f0800000000000000
+      internalID: -612175459118851023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_253
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 0
+        width: 241
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54579093724c390a0800000000000000
+      internalID: -6875936533324925627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_254
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 230
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a66d3ebd9da2fee0800000000000000
+      internalID: -1228728855305558365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_255
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 286
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361812a937a2f9fc0800000000000000
+      internalID: -3486020910565981853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_256
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562230f9f28b101f0800000000000000
+      internalID: -1080379920921451931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_257
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 0
+        width: 241
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6463d32ebbcf783b0800000000000000
+      internalID: -5510157735179766202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_258
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 293
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb758649cfb0e960800000000000000
+      internalID: 7629308639958105070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_259
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 230
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1057bbad50996de20800000000000000
+      internalID: 3375053221184369921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_260
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 286
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0acf1d0f1df12c0800000000000000
+      internalID: -4458614273828151053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_261
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 293
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4918af822911c0ff0800000000000000
+      internalID: -68660574866996844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_262
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 0
+        width: 338
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b77cd55b50280a50800000000000000
+      internalID: 6487470839881824185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid_Gunner_263
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 288
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2fc454e69e878e0800000000000000
+      internalID: -1695348599886646587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
